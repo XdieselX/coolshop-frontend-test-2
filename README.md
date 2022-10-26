@@ -1,6 +1,6 @@
 # coolshop-frontend-test-2
 
 
-#Instructions:
+# Instructions:
 
 To run this code: npm run start
